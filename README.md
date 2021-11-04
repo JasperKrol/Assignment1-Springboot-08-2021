@@ -47,10 +47,10 @@ _Let op_: het is uitdagender om jouw eigen stappenplan te maken. Mocht je niet z
 1. Zet een nieuw project op via Spring Boot Initialzr genaamd TechItEasy
 2. Maak een nieuwe map aan in je project genaamd Controllers
 3. Maak een nieuwe map aan in je project genaamd Exceptions
-4. Maak een nieuwe klasse aan in de map Controllers voor de televisionController
+4. Maak een nieuwe klasse aan in de map Controllers voor de TelevisionController
 5. Voorzie de klasse van de juiste annotatie
 6. Maak in de klasse de gevraagde requests met de juiste response entities
-7. Maak een nieuwe klasse aan in de map Controllers voor de exceptionController
+7. Maak een nieuwe klasse aan in de map Controllers voor de ExceptionController
 8. Voorzie de klasse van de juiste annotatie
 9. Maak in de klasse een exceptionHandler met de juiste notatie en response entitiy
 10. Maak een nieuwe klasse aan in de map Exceptions
