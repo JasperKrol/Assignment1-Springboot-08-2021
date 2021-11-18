@@ -18,7 +18,7 @@ Je hebt de vorige les een begin gemaakt voor de applicatie voor je werkgever Tec
   - `Spring Web`
   - `Spring Data Jpa`
   - `PostgreSQL Driver`
-- De **Application.properties** bevat de properties uit hoofdstuk 9.2 van de cursus Spring Boot
+- De **Application.properties** bevat de properties uit hoofdstuk 9.2 van de cursus Spring Boot(met aangepaste namen)
 - De **TelevisionRepository** extends JpaRepository met de juiste parameters
 - De **Television** bevat:
   -de attributen:
